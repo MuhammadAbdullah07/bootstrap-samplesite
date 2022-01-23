@@ -1,0 +1,74 @@
+.navbar-nav{
+   margin-left:auto ;
+  }
+/*SOCIAL MEDIA SECTION*/
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.8;
+  }
+  
+  /* Set a specific color for each brand */
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  /* Twitter */
+  .fa-twitter {
+    background: #00aced;
+    color: white;
+  }
+  /* Instagram */
+  .fa-instagram {
+    background:black;
+    color: white;
+  }
+  /*Skype*/
+  .fa-skype {
+  background: #00aff0;
+  color: white;
+}
+/*Pinterest*/
+.fa-pinterest {
+    background: #c8232c;
+    color: white;
+  }
+
+.a-padding{
+    margin-left:6px;
+    margin-right:auto;
+}
+
+/*under social media section*/
+.button:hover{
+  opacity:0.8;
+  background-color:#003cff;
+  text-decoration-color: white;
+}
+/*fixed background*/
+.fixed-background {
+  background-image: url("images/imac.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 500px;
+  background-position: center;
+  background-size: cover;
+}
+/*footer color*/
+.footer-color{
+  background-color:#383838 ;
+}
+/*socket*/
+.socket-color{
+  background-color:#222222 ;
+}
